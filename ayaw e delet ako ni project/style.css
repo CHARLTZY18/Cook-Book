@@ -3,7 +3,7 @@ body{
 }
 dl{
     text-align: center;
-    color: darkgreen;
+    color: #00008B;
     font-size: xx-large;
     font-style: oblique;
     font-weight: bold;
@@ -11,8 +11,8 @@ dl{
 h2{
     text-align: center;
     border: outset;
-    border-radius: 10px;
-    margin-top: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 1px solid black;
     margin-bottom: 150px;
@@ -20,26 +20,29 @@ h2{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background-color: goldenrod;
+    background-color: white;
     padding: 10px;
     color: black;
+    font-weight: bold;
 }
 li{
     text-align: left;
-    color: black;
+    color: #	8B4513;
     font-size: xx-large;
     font-weight: 500;
 }
 body{
-    background-image:url(Background.jpg) ;
+    background-image:url(Background.jpg) 
+    ;
 }
 body{
     
 }
 h3{
     text-align: left;
-    color: blue;
+    color: red;
     font-size: xx-large;
+    font-weight: bolder;
 }
 h2{
     font-size: xx-large;
@@ -54,17 +57,16 @@ h1{
     color: black;
     font-size: xx-large;
     border: outset;
-    border-radius: 10px;
-    margin-top: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 1px solid black;
+    border: 100px black;
     margin-bottom: 150px;
     width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background-color: pink;
-    padding: 10px;
+    padding: 5px;
 }
 myheading{
     text-align: center;
@@ -74,4 +76,5 @@ myheading{
 img{
     border-radius: 200;
     border-style: outset;
+    border: 1px solid black;
 }
